@@ -1,6 +1,7 @@
+### alias cd='rm -rf'
 
 <img src="https://github-readme-stats.vercel.app/api?username=HydrogenSulfate&count_private=true&show_icons=true&theme=tokyonight&layout=compact" height="150"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HydrogenSulfate&theme=tokyonight&layout=compact" height="150">
-### alias cd='rm -rf'
+
 
 <!--
 **kennymckormick/kennymckormick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
