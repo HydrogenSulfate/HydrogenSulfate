@@ -1,6 +1,6 @@
 ### alias cd='rm -rf'
 
-<img src="https://github-readme-stats.vercel.app/api?username=HydrogenSulfate&count_private=true&show_icons=true&theme=tokyonight&layout=compact" height="150"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HydrogenSulfate&theme=tokyonight&layout=compact" height="150">
+<img src="https://github-readme-stats.vercel.app/api?username=HydrogenSulfate&count_private=true&show_icons=true&theme=default&layout=compact" height="150"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HydrogenSulfate&theme=default&layout=compact" height="150">
 
 
 <!--
